@@ -11,7 +11,7 @@
 
 ## Description
 
-_This was my very first webpage made with Epicodus. I added some of my favorite things and people and a picture of my favorite plant. _
+_This was my very first webpage made with Epicodus. I added some of my favorite things and people and a picture of my favorite plant._
 
 ## Setup/Installation Requirements
 
