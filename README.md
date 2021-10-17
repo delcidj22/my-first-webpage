@@ -2,11 +2,12 @@
 
 #### By _**Jonathan Delcid**_
 
-#### __
+#### 
 
 ## Technologies Used
 
 * HTML
+* CSS
 
 
 ## Description
